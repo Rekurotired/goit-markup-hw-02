@@ -48,7 +48,7 @@ ul {
 }
 
 .address {
-  font-size: normal;
+  font-style: normal;
 }
 
 .background {
@@ -65,6 +65,7 @@ ul {
 
 .button {
   background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
